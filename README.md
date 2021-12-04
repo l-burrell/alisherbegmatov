@@ -1,16 +1,18 @@
-### Hi there 👋
+``` javascript
+const alisherbegmatov = {
+      location: "San Francisco, California.",
 
-<!--
-**alisherbegmatov/alisherbegmatov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+      education: {
+      degree: "BS in Applied Computer Science",
+      school: "Dominican University of California",
+  },
 
-Here are some ideas to get you started:
+      tools: {
+      languages: ["HTML", "CSS", "SCSS", "SASS", "D3", "JavaScript", "TypeScript", "Swift", "Python"],
+      designing: ["Material Design", "Bootstrap", "Tailwind" "Gatsby", "Figma" "Canva"],
+      frameworks: ["React", "React Native", "Ionic" "Vue" "Node", "Flask", "Django"],
+  },
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![alisherbegmatov](alisherbegmatov.svg)
