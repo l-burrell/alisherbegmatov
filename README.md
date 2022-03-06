@@ -8,9 +8,9 @@ const alisherbegmatov = {
       },
 
       tools: {
-            languages: ["HTML", "CSS", "SCSS", "SASS", "D3", "JavaScript", "TypeScript", "Swift", "Python"],
+            languages: ["HTML", "CSS", "SCSS", "SASS", "D3", "Vue", "JavaScript", "TypeScript", "Swift", "Python", "SQL"],
             designing: ["Material Design", "Bootstrap", "Tailwind" "Gatsby", "Figma" "Canva"],
-            frameworks: ["React", "React Native", "Ionic" "Vue" "Node", "Flask", "Django"],
+            frameworks: ["React", "React Native", "Ionic", "Node", "Flask", "Django"],
       },
 }
 ```
